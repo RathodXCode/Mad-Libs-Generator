@@ -18,7 +18,11 @@ This project is a Mad Libs Generator developed by Neil Rathod for the CS 20 cour
 2. Install the required library using pip:
     ```bash
     pip install easygui_qt
+    ```
+    ```bash
     pip install os
+    ```
+    ```bash
     pip install sys
     ```
 
